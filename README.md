@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheikh Riajul Kabir</h1>
+<h1 align="center">Hi 👋, I'm Riajul Kabir</h1>
 <h3 align="center">A passionate problem solver, competitive programmer & web developer from Bangladesh.</h3>
 
 <a href="https://leetcode.com/horcrux_63/">
